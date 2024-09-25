@@ -37,13 +37,6 @@ As a passionate data enthusiast, I thrive on transforming raw data into insightf
 
 ---
 
-## Achievements & Certifications
-- **Certified Data Scientist** (Year)
-- **Machine Learning Certification** (Year)
-- **Best Project Award** for Customer Churn Prediction (Year)
-
----
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/AtharvaGalphade)
 - [GitHub](https://github.com/AtharvaGalphade)
