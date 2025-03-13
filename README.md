@@ -1,49 +1,92 @@
-## Hi there 👋
+# 🚀 Atharva Sripaad Galphade  
 
-# About Me
-
-## Atharva Sripaad Galphade✌️
-*Data Scientist | Machine Learning Enthusiast | Business Analyst*
-
-As a passionate data enthusiast, I thrive on transforming raw data into insightful narratives that drive impactful business decisions. Currently pursuing a Master's in Business Analytics and Information Systems at the University of South Florida, I have developed a robust foundation in data science, SQL, and machine learning. My journey in the world of data analytics fuels my desire to harness the power of data to uncover hidden patterns, optimize processes, and ultimately create innovative solutions that elevate organizational success. I believe that every data point tells a story, and I am dedicated to leveraging this narrative potential to make a meaningful difference in the business landscape.
+📍 Tampa, FL | ✉️ agalphade@usf.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/AtharvaGalphade) | 🏆 [GitHub](https://github.com/AtharvaGalphade)  
 
 ---
 
-## Technical Skills
-- **Programming Languages:** Python, C, C++, HTML, CSS, JavaScript, .NET, R
-- **Data Analysis Tools:** SQL, MySQL, MS SQL Server, PostgreSQL, NoSQL, MongoDB
-- **Machine Learning:** TensorFlow, Keras, Scikit-learn
-- **Data Visualization:** Tableau, Matplotlib, Seaborn
-- **Development Tools:** Jupyter Notebook, Visual Studio Code, R Studio
+## 👋 Welcome to My GitHub!  
+
+Hello! I'm **Atharva**, a **Data Scientist & AI/ML Engineer** passionate about **data-driven decision-making, machine learning, and NLP applications**.  
+
+With experience in **SQL optimization, AI-powered solutions, and predictive modeling**, I specialize in:  
+✔️ **Building intelligent LLM-based applications**  
+✔️ **Developing machine learning models for real-world problems**  
+✔️ **Optimizing SQL queries for enhanced efficiency**  
+✔️ **Creating impactful data visualizations for better storytelling**  
+
+🔍 **Actively seeking opportunities in Data Science, AI/ML, and NLP roles.**  
 
 ---
 
-## Notable Projects
-### 1. Customer Churn Prediction
-- **Description:** Engineered a highly accurate customer churn prediction model using Artificial Neural Networks (ANN), which boosted customer retention efforts by reducing churn by 20%.
-- **Technologies:** Python (Pandas, Numpy, TensorFlow)
+## 🔧 Technologies & Skills  
 
-### 2. Predictive Model for Lifestyle-Diabetes Association
-- **Description:** Designed a predictive model that identified lifestyle factors contributing to diabetes, achieving 85% prediction accuracy.
-- **Technologies:** Python (Pandas, Numpy, SKLearn)
-
-### 3. Credit Card Default Prediction
-- **Description:** Developed a model to accurately predict credit card defaulters, enhancing financial risk management by reducing default rates by 15%.
-- **Technologies:** Python (SKlearn, Pandas)
-
-### 4. Business Analytics Using Tableau
-- **Description:** Identified optimal locations for a product launch using advanced data visualization, leading to a projected 20% increase in market share.
-- **Technologies:** Tableau, Python
+### 💡 Core Expertise:  
+- **Data Science & Analytics:** Python, SQL, R, Statistical Modeling  
+- **Machine Learning & AI:** Scikit-Learn, TensorFlow, Keras, PyTorch, Deep Learning  
+- **Natural Language Processing (NLP):** Hugging Face Transformers, LangChain, FAISS, OpenAI API, Llama  
+- **Data Visualization & Storytelling:** Tableau, Power BI, Matplotlib, Seaborn  
+- **Databases & Query Optimization:** MySQL, PostgreSQL, MongoDB, MS SQL Server  
+- **Big Data & Cloud:** AWS, Streamlit, FastAPI, Apache Spark  
+- **Software Development & Deployment:** Flask, Docker, GitHub Actions, Agile & Scrum  
 
 ---
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/AtharvaGalphade)
-- [GitHub](https://github.com/AtharvaGalphade)
+## 📌 Featured Projects  
+
+### 📊 News Research Tool (LLM & RAG for Equity Analysts)  
+🔹 Developed an **AI-driven research tool** that automates financial news summarization and analysis for **equity analysts**.  
+🔹 Implemented a **Retrieval-Augmented Generation (RAG) system** with **FAISS and LangChain** for efficient document retrieval.  
+🔹 Designed an **interactive Streamlit UI**, enabling users to **query financial data in real-time** and generate insights from financial reports.  
+🛠️ **Tech Stack:** Python, LangChain, FAISS, OpenAI API, Streamlit  
+🔗 **[GitHub Repo](#)**  
 
 ---
 
-### Key Points to Remember
-- **Concise Overview:** This README provides a clear overview of my skills and experience.
-- **Regular Updates:** I will keep this README updated as I take on new projects and gain new skills.
+### 📝 Text Summarization Using Google Pegasus  
+🔹 Built an **NLP-powered text summarizer** using **Google’s Pegasus Transformer model**.  
+🔹 **Fine-tuned the model** on domain-specific datasets to enhance summarization accuracy.  
+🔹 Developed a **FastAPI-based deployment** for real-time text summarization.  
+🛠️ **Tech Stack:** Python, Hugging Face Transformers, Google Pegasus, FastAPI  
+🔗 **[GitHub Repo](#)**  
 
+---
+
+### 💡 Credit Risk Prediction Model  
+🔹 Created a **classification model** for predicting **credit card defaulters**, achieving **87% accuracy**.  
+🔹 Applied **feature engineering, SMOTE balancing, and hyperparameter tuning** for better performance.  
+🔹 Used **XGBoost and ensemble methods** to improve predictions.  
+🛠️ **Tech Stack:** Python, Scikit-Learn, XGBoost, Pandas, NumPy  
+🔗 **[GitHub Repo](#)**  
+
+---
+
+### 📊 Education Economics: Insights into Debt, Earnings, and Career Sustainability  
+🔹 **Analyzed student debt and salary data** using **Python and Tableau** to uncover financial patterns.  
+🔹 Designed **interactive dashboards** to visualize insights into Pell Grants, debt, and earnings.  
+🔹 Presented key findings on **education economics and financial sustainability** for informed decision-making.  
+🛠️ **Tech Stack:** Python (Pandas, NumPy), Tableau, Statistical Analysis  
+🔗 **[GitHub Repo](#)**  
+
+---
+
+## 🌱 Ongoing & Upcoming Projects  
+📌 **Fine-Tuning Open-Source LLMs for Industry-Specific Applications**  
+📌 **Statistical analysis**  
+📌 **Building Agentic and RAG applications**  
+
+---
+
+## 📚 Education  
+
+🎓 **Master of Science in Artificial Intelligence & Business Analytics** – *University of South Florida* (2023-2025)  
+🎓 **Bachelor of Science in Information Technology** – *Pune Institute of Computer Technology* (2017-2021)  
+
+---
+
+## 📫 Let's Connect!  
+
+🔗 **LinkedIn:** [linkedin.com/in/AtharvaGalphade](https://www.linkedin.com/in/AtharvaGalphade)  
+📧 **Email:** agalphade@usf.edu  
+🐦 **Twitter:** [@AtharvaGalphade](#)  
+
+💡 _I’m open to collaborations, AI research projects, and industry partnerships._ Let’s build something impactful together! 🚀  
