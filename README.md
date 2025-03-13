@@ -87,6 +87,5 @@ With experience in **SQL optimization, AI-powered solutions, and predictive mode
 
 🔗 **LinkedIn:** [linkedin.com/in/AtharvaGalphade](https://www.linkedin.com/in/AtharvaGalphade)  
 📧 **Email:** agalphade@usf.edu  
-🐦 **Twitter:** [@AtharvaGalphade](#)  
 
 💡 _I’m open to collaborations, AI research projects, and industry partnerships._ Let’s build something impactful together! 🚀  
