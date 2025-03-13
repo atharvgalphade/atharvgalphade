@@ -38,7 +38,7 @@ With experience in **SQL optimization, AI-powered solutions, and predictive mode
 🔹 Implemented a **Retrieval-Augmented Generation (RAG) system** with **FAISS and LangChain** for efficient document retrieval.  
 🔹 Designed an **interactive Streamlit UI**, enabling users to **query financial data in real-time** and generate insights from financial reports.  
 🛠️ **Tech Stack:** Python, LangChain, FAISS, OpenAI API, Streamlit  
-🔗 **[GitHub Repo](#)**  
+🔗 **[GitHub Repo](https://github.com/atharvgalphade/RAG_Research_Tool)**  
 
 ---
 
@@ -47,7 +47,7 @@ With experience in **SQL optimization, AI-powered solutions, and predictive mode
 🔹 **Fine-tuned the model** on domain-specific datasets to enhance summarization accuracy.  
 🔹 Developed a **FastAPI-based deployment** for real-time text summarization.  
 🛠️ **Tech Stack:** Python, Hugging Face Transformers, Google Pegasus, FastAPI  
-🔗 **[GitHub Repo](#)**  
+🔗 **[GitHub Repo](https://github.com/atharvgalphade/Text-Summarizer-Project)**  
 
 ---
 
@@ -56,7 +56,7 @@ With experience in **SQL optimization, AI-powered solutions, and predictive mode
 🔹 Applied **feature engineering, SMOTE balancing, and hyperparameter tuning** for better performance.  
 🔹 Used **XGBoost and ensemble methods** to improve predictions.  
 🛠️ **Tech Stack:** Python, Scikit-Learn, XGBoost, Pandas, NumPy  
-🔗 **[GitHub Repo](#)**  
+🔗 **[GitHub Repo](https://github.com/atharvgalphade/CreditCardDefault)**  
 
 ---
 
@@ -65,7 +65,7 @@ With experience in **SQL optimization, AI-powered solutions, and predictive mode
 🔹 Designed **interactive dashboards** to visualize insights into Pell Grants, debt, and earnings.  
 🔹 Presented key findings on **education economics and financial sustainability** for informed decision-making.  
 🛠️ **Tech Stack:** Python (Pandas, NumPy), Tableau, Statistical Analysis  
-🔗 **[GitHub Repo](#)**  
+🔗 **[GitHub Repo](https://github.com/atharvgalphade/DV_Education-Economics)**  
 
 ---
 
