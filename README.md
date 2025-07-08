@@ -1,6 +1,6 @@
 # 🚀 Atharva Sripaad Galphade  
 
-📍 Tampa, FL | ✉️ agalphade@usf.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/AtharvaGalphade) | 🏆 [GitHub](https://github.com/AtharvaGalphade)  
+📍 Tampa, FL | ✉️ atharvn24@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/AtharvaGalphade) | 🏆 [GitHub](https://github.com/AtharvaGalphade)  
 
 ---
 
