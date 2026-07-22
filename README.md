@@ -117,7 +117,7 @@ An AI-powered marketing analytics solution that automates campaign performance a
 
 ### Highlights
 - Integrated campaign, publisher, and advertising APIs.
-- Built automated Python ETL pipelines.
+- Built automated Python ETL workflows.
 - Generated LLM-powered campaign summaries using the OpenAI API.
 - Developed rule-based campaign optimization logic.
 
@@ -145,7 +145,7 @@ Regional workforce and economic analytics using public datasets.
 
 ### Highlights
 - Automated API-based data collection.
-- Built ETL pipelines for analytics-ready datasets.
+- Built ETL workflows for analytics-ready datasets.
 - Created Tableau dashboards.
 - Delivered actionable workforce planning insights.
 
@@ -216,9 +216,9 @@ Machine learning model for breast cancer diagnosis.
 
 📧 **Email:** atharvn24@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/AtharvaGalphade
+💼 **LinkedIn:** https://www.linkedin.com/in/atharva-sripaad-galphade/
 
-💻 **GitHub:** https://github.com/AtharvaGalphade
+💻 **GitHub:** https://github.com/atharvgalphade
 
 ---
 
